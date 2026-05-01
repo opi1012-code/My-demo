@@ -1,4 +1,4 @@
 # My-demo
 This is my first repository
 <br>
-Author-Rabeya Afrin
+Author-Rabeya (CSE student)
